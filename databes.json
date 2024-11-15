@@ -1,0 +1,9 @@
+{
+  "allowedIps": ["188.166.182.45"],
+  "users": [
+    {
+      "username": "Ham-Bot",
+      "password": "1sampai8"
+    }
+  ]
+}
